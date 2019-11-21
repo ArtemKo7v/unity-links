@@ -26,6 +26,10 @@ https://github.com/IronWarrior/UnityToonShader
 https://github.com/Sorumi/UnityFurShader
 https://github.com/keijiro/KvantGrass
 
+# text
+
+https://github.com/badawe/Text-Juicer
+
 # post processing effects
 
 https://github.com/keijiro/Kino
