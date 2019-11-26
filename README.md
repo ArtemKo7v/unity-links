@@ -25,6 +25,7 @@ https://github.com/chenjd/UnitySpecialEffectWithDepth
 https://github.com/IronWarrior/UnityToonShader
 https://github.com/Sorumi/UnityFurShader
 https://github.com/keijiro/KvantGrass
+https://github.com/AdultLink/RadialProgressBar
 
 # GUI
 
