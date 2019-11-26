@@ -26,6 +26,7 @@ https://github.com/IronWarrior/UnityToonShader
 https://github.com/Sorumi/UnityFurShader
 https://github.com/keijiro/KvantGrass
 https://github.com/AdultLink/RadialProgressBar
+https://github.com/AdultLink/TexturePanner
 
 # GUI
 
@@ -44,3 +45,6 @@ https://github.com/keijiro/KinoGlitch
 https://github.com/keijiro/KinoBloom
 https://github.com/keijiro/MotionBlurTest
 
+# manuals
+
+https://github.com/lettier/3d-game-shaders-for-beginners
