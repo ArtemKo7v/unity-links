@@ -59,3 +59,4 @@ https://github.com/keijiro/MotionBlurTest
 # manuals
 
 https://github.com/lettier/3d-game-shaders-for-beginners
+https://www.raywenderlich.com/418-how-to-save-and-load-a-game-in-unity
